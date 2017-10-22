@@ -17,7 +17,7 @@
 └── views            # 页面入口
     ├── Demo
     ├── Home         # 首页
-    └── Test     # test
+    └── Test         # test
 ```
 
 ## 本地开发页面
