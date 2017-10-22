@@ -17,10 +17,7 @@
 └── views            # 页面入口
     ├── Demo
     ├── Home         # 首页
-    ├── Logistics    # 物流
-    ├── Product      # 商品
-    ├── Shop         # 门店
-    └── Supplier     # 供应商
+    └── Test     # test
 ```
 
 ## 本地开发页面
